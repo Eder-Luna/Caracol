@@ -1,0 +1,23 @@
+{
+  "name": "proyectonode",
+  "version": "1.0.0",
+  "description": "Sistema de Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eder-Luna/Caracol.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "EderLuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eder-Luna/Caracol/issues"
+  },
+  "homepage": "https://github.com/Eder-Luna/Caracol#readme"
+}
